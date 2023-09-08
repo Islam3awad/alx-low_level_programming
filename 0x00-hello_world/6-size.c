@@ -1,11 +1,12 @@
 #include <stdio.h>
 
 /**
- * main - entry point
+ * main - Entry point
+ *
  * Description: using size of to print the size of various computer types.
  *
  * Return: always 0 (Success)
- */
+*/
 
 int main(void)
 {
